@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b75d3513-d9aa-4a34-91d1-ec1c98f41204",
+  "export_job_id": "60035e73-c0e7-4777-967c-bb4b2be7a9bd",
   "id_short": 945691,
-  "published_at": "2026-04-16T07:24:28Z",
+  "published_at": "2026-04-19T19:23:24Z",
   "repo_name": "all-restaurants-in-anaheim-california-us-sample-945691",
   "sample_asset_name": "beamstation_945691_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/945691/beamstation_945691_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 95,
-  "sample_sha256": "26d317defe3bb748f82b1ec1f5164555f860d1cc841579ffce8e71fb1398b5d6",
-  "sample_size_bytes": 372688,
-  "total_records": 950
+  "sample_records": 94,
+  "sample_sha256": "3c2440ae5d3b78e2351e346afda95844ab52d5461299b08cf649d9f1e45e26bf",
+  "sample_size_bytes": 344255,
+  "total_records": 949
 }
