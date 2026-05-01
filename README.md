@@ -1,6 +1,6 @@
 # All Restaurants in Anaheim, California, US
 
-> Free BeamStation sample export with 94 rows and masked direct-contact fields.
+> Free BeamStation sample export with 85 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `945691` |
 | Location | Anaheim |
 | Category | Restaurants |
-| Full dataset size | 949 records |
-| Free sample size | 94 records (9.91%) |
-| Last export | 2026-04-16T14:31:10.258341+00:00 |
+| Full dataset size | 856 records |
+| Free sample size | 85 records (9.93%) |
+| Last export | 2026-04-30T19:35:48.619727+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-anaheim-california-us-sample-945691/releases/download/sample-latest/beamstation_945691_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
